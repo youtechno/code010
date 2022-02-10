@@ -13,8 +13,6 @@
 
 从 [leetcode](https://leetcode-cn.com/problemset/all/)中依照难度选取问题，case by case学习，具体采用如下步骤
 
-从 leetcode中依照难度选取问题，case by case学习，具体采用如下步骤
-
 * 理解问题：过程中中英文对照，学习专业英语，数学术语， 以语言构建和影响对应的思维方法和内容​。
 * ​编码解决问题：逐次采用c/c++/java/javascript/python等语言编程解决问题，学习编程语言，数据结构。所谓的，talk is cheap，show me the code！
 * ​全程穿插软硬件知识，行业发展现状，行业趣闻轶事，提高同学兴趣，对于具体的的学习内容，理解和记忆结合，动手实战为主，
